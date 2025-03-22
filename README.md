@@ -26,7 +26,7 @@ Aspiring Salesforce Developers and Admins: Get hands-on training from an industr
 
 **How to Register**
 To register for the training program, visit the following link:
-Registration Link
+Registration Link : https://register.gotowebinar.com/register/109179751621443925
 
 **Repository Purpose**
 This repository serves as a resource for developers and professionals interested in upskilling in Salesforce technologies. It provides information about the FREE Salesforce Developer Training program and is intended to help individuals explore opportunities in the Salesforce ecosystem.
